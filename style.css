@@ -13,11 +13,12 @@ body {
     background-attachment: fixed;
 }
 
-html,body {
-    height: 100vw;
+html, body {
+    height: 100%;
     width: 100vw;
-    
 }
+
+
 
 main {
     height: 100vw;
@@ -71,3 +72,8 @@ section#telefone {
     transition: transform 1s, border 1s;
 }
 
+p {
+    color: rgb(255, 0, 0);
+    text-align: left;
+    font-size: 0.5em;
+}

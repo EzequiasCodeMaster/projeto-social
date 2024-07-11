@@ -47,6 +47,7 @@ section#telefone {
     height: 469px;
 }
 
+
 #redes-sociais {
     text-align: right;
    
@@ -69,3 +70,4 @@ section#telefone {
     box-shadow:  6px 6px 14px rgba(0, 0, 0, 0.651);
     transition: transform 1s, border 1s;
 }
+
